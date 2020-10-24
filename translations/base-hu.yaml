@@ -2,18 +2,17 @@ steamPage:
     shortText: A shapez.io-ban gyárak építésével kell automatizálni az egyre
         összetettebb alakzatok gyártását és kombinálását egy végtelen méretű
         térképen.
-    discordLinkShort: Official Discord
+    discordLinkShort: Hivatalos Discord szoba
     intro: >-
-        Shapez.io is a relaxed game in which you have to build factories for the
-        automated production of geometric shapes.
+        A Shapez.io pihentető játék, ahol gyárak felépítésével geometrikus formák automatikus gyártását kell felépíteni.
 
-        As the level increases, the shapes become more and more complex, and you have to spread out on the infinite map.
+        Ahogy egyre nehezebb lesz, az alakzatok egyre bonyolultabbak és a gyártás is egyre kiterjedtebb lesz a végtelen térképen.
 
-        And as if that wasn't enough, you also have to produce exponentially more to satisfy the demands - the only thing that helps is scaling!
+        Ha ez még minding nem elég, a legyártandó mennyiség is exponenciálisan növekszik, ahol már csak a skálázhatóság segít!
 
-        While you only process shapes at the beginning, you have to color them later - for this you have to extract and mix colors!
+        Csak formákat kezelsz az elején, aztán színezed őket, hogy ezt elért bányásznod és kombinálnod is kell a színeket!
 
-        Buying the game on Steam gives you access to the full version, but you can also play a demo on shapez.io first and decide later!
+        Ha Steam-n veszed meg, teljes hozzáférést kapsz a játékhoz, de a demóval shapez.io weboldalon is játszhatsz és eldöntheted később, hogy megveszed e!
     title_advantages: Standalone Advantages
     advantages:
         - <b>12 New Level</b> for a total of 26 levels
