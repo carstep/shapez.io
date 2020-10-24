@@ -2,7 +2,7 @@ steamPage:
     shortText: A shapez.io-ban gyárak építésével kell automatizálni az egyre
         összetettebb alakzatok gyártását és kombinálását egy végtelen méretű
         térképen.
-    discordLinkShort: Hivatalos Discord szoba
+    discordLinkShort: Hivatalos Discord Szerver
     intro: >-
         A Shapez.io pihentető játék, ahol gyárak felépítésével geometrikus formák automatikus gyártását kell felépíteni.
 
@@ -13,39 +13,37 @@ steamPage:
         Csak formákat kezelsz az elején, aztán színezed őket, hogy ezt elért bányásznod és kombinálnod is kell a színeket!
 
         Ha Steam-n veszed meg, teljes hozzáférést kapsz a játékhoz, de a demóval shapez.io weboldalon is játszhatsz és eldöntheted később, hogy megveszed e!
-    title_advantages: Standalone Advantages
+    title_advantages: Teljes verzióban
     advantages:
-        - <b>12 New Level</b> for a total of 26 levels
-        - <b>18 New Buildings</b> for a fully automated factory!
-        - <b>20 Upgrade Tiers</b> for many hours of fun!
-        - <b>Wires Update</b> for an entirely new dimension!
-        - <b>Dark Mode</b>!
-        - Unlimited Savegames
-        - Unlimited Markers
-        - Support me! ❤️
-    title_future: Planned Content
+        - <b>12 új szint</b> összesen 26 szint
+        - <b>18 új épület</b> teljesen automatizált gyárak!
+        - <b>20 fejlesztési lehetőség</b> sok órányi élvezet!
+        - <b>Wires Update</b> egy teljesen új dimenzió a játékban!
+        - <b>Sötét mód</b>!
+        - Végtelen mentési lehetőséges
+        - Végtelen jelölők!
+        - Támogass! ❤️
+    title_future: Tervezett újjítások
     planned:
-        - Blueprint Library (Standalone Exclusive)
-        - Steam Achievements
-        - Puzzle Mode
+        - Blueprint könytár (Csak teljes verzióban)
+        - Steam badgetek
+        - Puzzle mód
         - Minimap
-        - Mods
-        - Sandbox mode
-        - ... and a lot more!
-    title_open_source: This game is open source!
-    title_links: Links
+        - Modok
+        - Sandbox mód (homokozó)
+        - ... és még sokminden más!
+    title_open_source: Ez egy nyílt forráskódú játék!
+    title_links: Linkek
     links:
-        discord: Official Discord
+        discord: Hivatalos Discord Szerver
         roadmap: Roadmap
         subreddit: Subreddit
-        source_code: Source code (GitHub)
-        translate: Help translate
+        source_code: Forráskód (GitHub)
+        translate: Segíts a fordításban
     text_open_source: >-
-        Anybody can contribute, I'm actively involved in the community and
-        attempt to review all suggestions and take feedback into consideration
-        where possible.
+        Mindenki hozzájárulhat, aktív részese vagyok a közösségnek és igyekszem minden javaslatot megfontolni és válaszolni is rá..
 
-        Be sure to check out my trello board for the full roadmap!
+        Nézd meg a Trello board -t a teljes roadmap-ért!
 global:
     loading: Betöltés
     error: Hiba
@@ -96,7 +94,7 @@ mainMenu:
         játékélményért.
     savegameLevel: <x>. szint
     savegameLevelUnknown: Ismeretlen szint
-    savegameUnnamed: Unnamed
+    savegameUnnamed: Névtelen
 dialogs:
     buttons:
         ok: OK
@@ -121,9 +119,8 @@ dialogs:
         text: "Nem sikerült betölteni a mentésed:"
     confirmSavegameDelete:
         title: Törlés megerősítése
-        text: Are you sure you want to delete the following game?<br><br>
-            '<savegameName>' at level <savegameLevel><br><br> This can not be
-            undone!
+        text: Biztosan törölni szeretnét a játékot?<br><br>
+            '<savegameName>' nevű és az alábbi szinten <savegameLevel><br><br> Ez nem visszaállítható!
     savegameDeletionError:
         title: Sikertelen törlés
         text: "Nem sikerült törölni a mentésed:"
@@ -184,8 +181,7 @@ dialogs:
             lehelyezéskor.<br>"
     createMarker:
         title: Új Jelölő
-        desc: Give it a meaningful name, you can also include a <strong>short
-            key</strong> of a shape (Which you can generate <link>here</link>)
+        desc: Adj meg egy értelmes nevet, megadhatsz egy <strong>gyorsbillentyűt</strong> a formához (amelyet <link>itt</link> generálhatsz)
         titleEdit: Jelölő Szerkesztése
     markerDemoLimit:
         desc: A Demó verzióban csak két Jelölőd lehet. Vásárold meg az Önálló verziót,
@@ -196,21 +192,18 @@ dialogs:
             nagy méretű bázisoknál igen lassú lehet, de akár a játék
             összeomlását is okozhatja!
     editSignal:
-        title: Set Signal
-        descItems: "Choose a pre-defined item:"
-        descShortKey: ... or enter the <strong>short key</strong> of a shape (Which you
-            can generate <link>here</link>)
+        title: Signal lerakása
+        descItems: "Válassz egy előre gyártott elemet:"
+        descShortKey: ... vagy egy <strong>gyorsbillentyűt</strong> a formához (amelyet <link>itt</link> generálhatsz)
     renameSavegame:
-        title: Rename Savegame
-        desc: You can rename your savegame here.
+        title: Mentett játék átnevezése
+        desc: Itt nevezheted át a mentett játékodat.
     tutorialVideoAvailable:
-        title: Tutorial Available
-        desc: There is a tutorial video available for this level! Would you like to
-            watch it?
+        title: Segédlet elérhető
+        desc: Elérhető egy Segédlet ehhez a szinthez egy videó formályában! Szeretnéd megnézni?
     tutorialVideoAvailableForeignLanguage:
-        title: Tutorial Available
-        desc: There is a tutorial video available for this level, but it is only
-            available in English. Would you like to watch it?
+        title: Segédlet elérhető
+        desc: Elérhető egy Segédlet ehhez a szinthez egy videó formályában, de csak angolul. Szeretnéd megnézni?
 ingame:
     keybindingsOverlay:
         moveMap: Mozgatás
@@ -261,7 +254,7 @@ ingame:
     notifications:
         newUpgrade: Egy új fejlesztés elérhető!
         gameSaved: A játékállás mentve.
-        freeplayLevelComplete: Level <level> has been completed!
+        freeplayLevelComplete: <level>. szint készen van!
     shop:
         title: Fejlesztések
         buttonUnlock: Fejlesztés
